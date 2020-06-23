@@ -5,8 +5,7 @@ using NUnit.Framework;
 
 namespace CBA.Training.Talmate.Api.UnitTests
 {
-    [TestFixture]
-    public class NewTestCls
+    [TestFixture]    public class NewTestCls
     {
     }
 }
