@@ -10,5 +10,7 @@ namespace CBA.Training.Talmate.Common
         public int empname { get; set; }
 
         public string empaddress { get; set; }
+
+        public string empaddress1 { get; set; }
     }
 }
